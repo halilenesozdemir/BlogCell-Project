@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/d/da/Sagopa-Kajmer-Kalp-Hastasi.jpg",
+      "category": "Music",
+      "title": "Kalp Hastası",
+      "author": "Sagopa Kajmer",
+      "textContent": "İlk pişmanlık büyük derstir, almayan çok pişman olur.\nBu arada çok pişman olan, hiç pişman olmamıştır.",
+      "date": "02/12/2022, 08:52",
+      "id": 1
+    },
+    {
+      "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e0/02/aa/e002aa4e-7408-bc39-7a56-84fe43465013/rls00097049.jpg/600x600bf-60.jpg",
+      "category": "Music",
+      "title": "Rap Seven",
+      "author": "Defkhan",
+      "textContent": "Durma dün aldığın tecrübe ile yarını planla.\nBugün elinden uçmadan zamanı yakala\nDüşme kal ayakta tatmasan da sevgiyi.",
+      "date": "02/12/2022, 08:52",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://images.genius.com/d8ef8b20f05577a83de9c909ab714189.1000x1000x1.png",
+      "category": "Music",
+      "author": "Mozole Mirach",
+      "title": "Hack",
+      "textContent": "Ben zaten zenginim, çünkü bu kalbim ekmeğim.\nYolum ve emeğimle sistemi hackleyeceğim.",
+      "date": "02/12/2022, 08:52"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://resim.fullhdfilmizlesene.pw/mdsresim_orj/fullhd-esaretin-bedeli-full-hd-turkce-dublaj-izle.jpg",
+      "category": "Film",
+      "author": "Frank Darabont",
+      "title": "Esaretin Bedeli",
+      "date": "02/12/2022, 08:52",
+      "textContent": "Esaretin Bedeli, Frank Darabont'un senaryosunu yazdığı ve yönettiği, başrollerinde Tim Robbins ve Morgan Freeman'ın yer aldığı 1994 yapımı Amerikan dram filmidir."
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+      "category": "Film",
+      "title": "Monk",
+      "author": "Andy Breckman",
+      "date": "02/12/2022, 08:52",
+      "textContent": "Monk, Emmy ödülü sahibi televizyon dizisidir. San Francisco'da yaşayan obsesif kompulsif bir kişiliğe sahip dedektif Adrian Monk'un her bölümde farklı olayları inanılmaz bir dikkat ve zeka ile çözdüğü, komedi ağırlıklı polisiye bir dizidir."
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://tr.web.img4.acsta.net/pictures/bzp/01/27070.jpg",
+      "category": "Film",
+      "title": "Yüzüklerin Efendisi",
+      "author": "Peter Jackson",
+      "date": "02/12/2022, 08:52",
+      "textContent": "John Ronald Reuel Tolkien'in yazdığı Yüzüklerin Efendisi adlı fantastik edebiyat serisinden uyarlanarak çekilmiş Peter Jackson imzalı bir film üçlemesidir."
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.fullindir.cafe/wp-content/uploads/2021/04/GTA-turk-4.jpg",
+      "category": "Game",
+      "author": "Halil Enes Özdemir",
+      "title": "GTA Türk",
+      "date": "02/12/2022, 08:52",
+      "textContent": "Grand Theft Auto: Vice City, Rockstar North tarafından geliştirilen ve Rockstar Games tarafından yayımlanan, 2002 aksiyon-macera temalı video oyunu. "
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://productimages.hepsiburada.net/s/9/500/9074380439602.jpg",
+      "category": "Game",
+      "title": "Pes 2013",
+      "author": "Serkan Çetin",
+      "date": "02/12/2022, 08:52",
+      "textContent": "Pro Evolution Soccer 2013, Konami tarafından geliştirilen Pro Evolution Soccer serisinin 2012-13 sezonu için çıkmış olan video oyunu. Oyun, 18 Nisan 2012'de Konami tarafından duyurulmuş"
+    },
+    {
+      "imageUrl": "https://img-s1.onedio.com/id-614a0c49793d1bfd1c230feb/rev-0/w-620/f-jpg/s-5358aabff34570037001aee502dc354e92177e58.jpg",
+      "category": "Game",
+      "title": "Counter Strike-X",
+      "author": "Jess Cliffe",
+      "textContent": "Counter-Strike veya kısaca CS, Valve Corporation tarafından geliştirilen bir birinci şahıs nişancı türünde taktiksel aksiyon video oyunu serisidir. ",
+      "date": "02/12/2022, 08:52",
+      "id": 10
+    }
+  ]
+}
